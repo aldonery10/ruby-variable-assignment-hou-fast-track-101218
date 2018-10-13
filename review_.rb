@@ -5,8 +5,8 @@ puts anything
 
 
 if (something is true)
-  do yes 
+  yes 
 else
-  do no 
+  no 
   
 !!hello
