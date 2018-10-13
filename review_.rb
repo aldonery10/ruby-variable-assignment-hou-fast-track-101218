@@ -1,0 +1,6 @@
+anything = "Car"
+
+puts anything
+
+
+
